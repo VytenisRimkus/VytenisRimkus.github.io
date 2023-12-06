@@ -29,7 +29,7 @@
         
         
           Labai geras puslapis!
-Man nereikejo beveik nieko daryti :smile:
+Man nereikejo beveik nieko daryti namespace HelloWorld { class Hello { static void Main(string[] args) { System.Console.WriteLine(&amp;#34;Hello World!&amp;#34;); } } } 
           
         
         </description>
